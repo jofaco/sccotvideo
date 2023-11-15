@@ -1,6 +1,6 @@
 import axiosInstance from "../axios";
 
-const API_URL = "http://165.227.177.75/temporadas/";
+const API_URL = "http://165.227.177.75:8000/temporadas/";
 
 /**
  * Función para consultar todas las temporadas registradas en la base de datos.

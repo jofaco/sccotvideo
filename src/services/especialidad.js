@@ -1,6 +1,6 @@
 import axiosInstance from "../axios";
 
-const API_URL = "http://165.227.177.75/especialidades/";
+const API_URL = "http://165.227.177.75:8000/especialidades/";
 
 /**
  * Función para consultar todas las categorias registradas en la base de datos.

@@ -1,7 +1,7 @@
 import axios from "axios";
 import axiosInstance from "../axios";
 
-const API_URL = "http://165.227.177.75/";
+const API_URL = "http://165.227.177.75:8000/";
 
 /**
  * Función para realizar login

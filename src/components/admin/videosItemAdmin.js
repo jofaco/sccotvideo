@@ -66,7 +66,7 @@ const VideosItemAdmin = ({ video,...props }) => {
         <div className={"col-md-8  col-12 "+classes.imagen}>
           <Button onClick={() => props.verVideo(video.id)}>
             <Image
-              src={"http://165.227.177.75" + video.featured_image}
+              src={"http://165.227.177.75:8000" + video.featured_image}
               className={classes.imagenCarousel}
             >
             </Image>

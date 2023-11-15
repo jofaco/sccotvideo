@@ -1,6 +1,6 @@
 import axiosInstance from "../axios";
 
-const API_URL = "http://165.227.177.75/historialVideo/";
+const API_URL = "http://165.227.177.75:8000/historialVideo/";
 
 /**
  * Función para registrar un historial de video.

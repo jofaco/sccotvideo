@@ -1,6 +1,6 @@
 import axiosInstance from "../axios";
 
-const API_URL = "http://165.227.177.75/gustos_by_users/";
+const API_URL = "http://165.227.177.75:8000/gustos_by_users/";
 
 /**
  * Función para agregar preferencias(gustos) de un usuario.
