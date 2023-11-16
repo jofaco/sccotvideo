@@ -1,6 +1,6 @@
 import axiosInstance from "../axios";
 
-const API_URL = "http://165.227.177.75:8000/fechaReprods/";
+const API_URL = "http://165.227.177.75/fechaReprods/";
 
 /**
  * Función para registrar una nueva fecha de reproducción, este tiene relación con el historial de video e historial de usuario.

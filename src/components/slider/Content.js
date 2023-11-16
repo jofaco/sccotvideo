@@ -20,7 +20,7 @@ const Content = ({ video, onClose, ...props }) => {
       <div className="content__background__shadow" />
       <div
         className="content__background__image"
-        style={{ 'backgroundImage': `url(http://165.227.177.75:8000${video.featured_image})` }}
+        style={{ 'backgroundImage': `url(http://165.227.177.75${video.featured_image})` }}
       />
     </div>
     <div className="content__area"> 
