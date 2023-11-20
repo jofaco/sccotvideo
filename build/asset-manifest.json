@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jofaco/sccotvideo/build/static/css/main.53594de8.css",
+    "main.js": "/jofaco/sccotvideo/build/static/js/main.9fa6c20a.js",
+    "static/js/496.c88e5b26.chunk.js": "/jofaco/sccotvideo/build/static/js/496.c88e5b26.chunk.js",
+    "static/media/logosccot.png": "/jofaco/sccotvideo/build/static/media/logosccot.2c493bfee9148fa207f6.png",
+    "index.html": "/jofaco/sccotvideo/build/index.html",
+    "main.53594de8.css.map": "/jofaco/sccotvideo/build/static/css/main.53594de8.css.map",
+    "main.9fa6c20a.js.map": "/jofaco/sccotvideo/build/static/js/main.9fa6c20a.js.map",
+    "496.c88e5b26.chunk.js.map": "/jofaco/sccotvideo/build/static/js/496.c88e5b26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53594de8.css",
+    "static/js/main.9fa6c20a.js"
+  ]
+}
